@@ -1,4 +1,4 @@
-const age: number = 23;
+const age: number = 28;
 
 //добавить минуты
 
